@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/explosion/prodigy-hf/commit/cef6257d29f43282942ade8998592e59379bc317",
       "git:hexsha": "cef6257d29f43282942ade8998592e59379bc317",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v0.2.3"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v0.2.3",
+      "repolex:parsedAt": "2026-10-28T12:03:19.426756+00:00"
     },
     {
       "@id": "https://repolex.ai/r/explosion/prodigy-hf/commit/40c550ceeaac69ad826816f0a29339bed3988e37",
