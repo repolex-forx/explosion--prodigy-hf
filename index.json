@@ -1,0 +1,11 @@
+{
+  "org": "explosion",
+  "repo": "prodigy-hf",
+  "versions": [
+    {
+      "commit": "cef6257d29f43282942ade8998592e59379bc317",
+      "tag": "v0.2.3",
+      "parsed_at": "2026-10-28T12:03:19.473036+00:00"
+    }
+  ]
+}
